@@ -1,1 +1,1 @@
-##end to end machine learning project
+##machine learning project setup
